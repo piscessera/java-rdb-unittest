@@ -1,6 +1,4 @@
 # java-rdb-unittest
-Java Real Database Unit Test
-
-When implement with database how to make sure your code is working without mock the data in any layer. This java library will help you to test your code with the real database. Supported only JAVA language with any database you want to test.
+java-rdb-unittest is using for unit testing with real database. The concept is unit test with real table from prepared schema. Then use that temp table to unit test after that remove temp table from the database.
 
 **Get Started**
